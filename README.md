@@ -1,3 +1,5 @@
+<img src="Images/arduino%20logo.png" width="100">
+
 # albtronics/arduino
 
 " The Times When Hardware Meets Creativity ! "
